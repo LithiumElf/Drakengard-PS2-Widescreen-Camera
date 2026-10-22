@@ -1,0 +1,10 @@
+# Never commit game files
+*.iso
+*.ISO
+*.bin
+*.BIN
+*.elf
+SLES_*
+SLUS_*
+*.7z
+*.zip
