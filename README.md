@@ -10,7 +10,7 @@ A patch for **Drakengard (PAL, SLES-52322)** that:
 
 Made by **Lithium Elf** with Codex and Claude.
 
-📺 Video: **[VIDEO LINK]**
+📺 Video: **https://www.youtube.com/watch?v=jQjbufm0hEc&feature=youtu.be**
 
 > This repository contains **no game files**. You need your own copy of the game.
 
